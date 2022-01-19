@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ganache": "^6.4.5",
+    "ganache-cli": "^6.12.2",
+    "install": "^0.13.0",
+    "jarn": "^0.0.1",
+    "upgrade": "^1.1.0",
+    "yarn": "^1.22.17"
+  }
+}
